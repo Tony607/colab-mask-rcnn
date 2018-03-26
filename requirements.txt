@@ -1,0 +1,11 @@
+numpy
+keras
+tensorflow-gpu
+pandas
+h5py
+opencv2-python
+matplotlib
+skimage
+scipy
+pillow
+cython
