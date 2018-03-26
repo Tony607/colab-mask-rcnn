@@ -1,6 +1,6 @@
 # [How to run Object Detection and Segmentation on a Video Fast for Free](https://www.dlology.com/blog/how-to-run-object-detection-and-segmentation-on-video-fast-for-free/)
 
-
+![alt text](https://gitcdn.xyz/cdn/Tony607/blog_statics/23cd63466316e14d91998bf6aeb47f8d660f4378/images/colab/out-clip.gif  "Video Demo")
 # How to Run
 ## Colab
 The easiest way is to open  [the colab notebook](https://drive.google.com/file/d/11yXcMidH2rmnvy5GxFAr0M_0mABr1M_-/view?usp=sharing).
